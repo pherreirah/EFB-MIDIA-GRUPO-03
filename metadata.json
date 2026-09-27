@@ -1,0 +1,8 @@
+{
+  "name": "EFB MÍDIA — Além do Olhar",
+  "description": "Agência de Publicidade e Produtora Audiovisual de Alta Gama em Luanda e Lisboa. Narrativas cinematográficas que transcendem o visível.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
